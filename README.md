@@ -1,7 +1,7 @@
 # Spaming
 
-Spam sms dan telepon yang dicampur dijamin menggangu seorang gamer
-Skrip buatan kang punch man
+Spam sms dan telepon yang dicampur dijamin menggangu seorang gamer!
+Skrip ini buatan kang punch man
 
 pkg update && pkg upgrade
 
